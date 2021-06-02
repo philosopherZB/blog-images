@@ -1,2 +1,2 @@
 # blog-images
-blog-images
+store images
